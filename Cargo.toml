@@ -12,7 +12,7 @@ license = "Apache-2.0 OR MIT"
 readme = "README.md"
 
 [features]
-default = ["clap/default"]
+default = []
 suggestions = ["clap/suggestions"]
 color = ["clap/color"]
 wrap_help = ["clap/wrap_help"]
